@@ -1,3 +1,11 @@
+## NOTICE:
+
+Welcome to the Smart Mirror Project repo by Brian Meyer
+This repo is a copy of Michael Teeuw's directed at making the Magic Mirror work on the Mac.
+
+The ReadMe below is written by Michael and applies for the MM code, as it does to my changes.
+
+
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p align="center">
