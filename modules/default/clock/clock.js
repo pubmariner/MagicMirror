@@ -10,11 +10,11 @@ Module.register("clock",{
 	defaults: {
 		displayType: "digital", // options: digital, analog, both
 
-		timeFormat: config.timeFormat,
+		timeFormat: 24,
 		displaySeconds: true,
 		showPeriod: true,
 		showPeriodUpper: false,
-		clockBold: false,
+		clockBold: true,
 		showDate: true,
 		showWeek: false,
 		dateFormat: "dddd, LL",
